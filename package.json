@@ -1,0 +1,13 @@
+{
+  "name": "mockproject-cypress",
+  "version": "1.0.0",
+  "description": "A test project for CI/CD practice with Cypress and Jenkins",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.0.0"
+  }
+}
